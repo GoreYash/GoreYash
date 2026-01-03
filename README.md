@@ -20,13 +20,13 @@ I am a first-year Computer Science student currently focused on mastering Data S
 ---
 
 ### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=12345678-byte&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=12345678-byte&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=GoreYash&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=GoreYash&layout=compact&theme=radical)
 
 ---
 
 ### 📫 Let's Connect!
 - **LinkedIn:** https://www.linkedin.com/in/yashgore-in/
-- **Portfolio:** (https://12345678-byte.github.io/)
+- **Portfolio:** (https://GoreYash.github.io/)
 
 *"The best way to predict the future is to invent it."*
